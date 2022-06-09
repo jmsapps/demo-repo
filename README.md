@@ -2,6 +2,6 @@
 
 Some description!
 
-##SubHeader
+## SubHeader
 
 Some other description.
